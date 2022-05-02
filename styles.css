@@ -1,0 +1,57 @@
+body {
+	font-family: Audiowide;
+    text-align: center;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin-top: 0.2em; margin-top: 0.1em;
+}
+
+h2 {
+	margin-top: 20px;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+	position: relative; top: 50px;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+#gridInformationBox {
+	border: 1px gray inset;
+	color: darkred;
+	margin: auto;
+	position: relative; top: 5px;
+	width: 400px;
+}
+
+.align_setup {
+	margin: 5px auto;
+	display: flex;
+	position: relative; top: -30px;
+	width: 500px;
+}
+
+.align_setup  div {
+	margin-left: 10px; margin-right:20px;
+}

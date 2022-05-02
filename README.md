@@ -1,6 +1,5 @@
 # PixelArtMaker
-Pixel Art Maker (version 0.0.1)
-Simple Web-app that allows one to draw on a pixel canvas.
+Pixel Art Maker (version 0.0.1) - Simple Web-app that allows one to draw on a pixel canvas.
 
 
 Along with a 
